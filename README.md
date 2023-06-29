@@ -5,3 +5,6 @@ Search is also available. Search can be conducted with just the city name or wit
 - To search for international city, query should look like "{City}, {Country}". 
 - To search for city in the US, query should look like "{City}, {State}, USA
 Deleting value in search query and pressing enter will revert back to default weather data
+
+Weather Data is called using OpenWeatherMap API and its following GeoCoder API
+https://openweathermap.org/current
